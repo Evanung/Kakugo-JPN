@@ -1,0 +1,23 @@
+.header{
+    background-color: #0080ff;
+    padding: 10px;
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header h1{
+    padding-right: 20px;
+}
+.buttonBox{
+    display: flex;
+    align-items: center;
+}
+
+.userBox {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+
